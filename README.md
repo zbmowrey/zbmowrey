@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo15055
-Fork on GitHub4071
 <h1 align="center">Hi 👋, I'm Zach Mowrey</h1>
 <h3 align="center">A Cloud Software Architect</h3>
 
