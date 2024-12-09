@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Zach Mowrey</h1>
 <h3 align="center">A Cloud Software Architect</h3>
 
-- 🔭 I’m currently working on [Vega Cloud](https://vegacloud.io)
+- 🔭 I’m currently working on [Building a Github Portfolio](https://www.youtube.com/@javascriptmastery)
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **NextJS/React**
 
 - 💬 Ask me about **AWS, Laravel, PHP, Javascript (NodeJS, VueJS)**
 
 - 📫 How to reach me **zbmowrey@gmail.com**
 
-- 📄 Know about my experiences [https://zbmowrey.com](https://zbmowrey.com)
+- 📄 See my CV/Resume: [https://zbmowrey.com](https://zbmowrey.com)
 
 - ⚡ Fun fact **I'm addicted to learning new things.**
 
